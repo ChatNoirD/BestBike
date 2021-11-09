@@ -1,2 +1,2 @@
 # chatnoird.github.io
-Simpla one-page site bikeshop
+Simple one-page site bikeshop
